@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "example",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@awesomeorganization/hawkbit-ddi": "..",
+    "@awesomeorganization/promise-queue": "1.0.0"
+  }
+}

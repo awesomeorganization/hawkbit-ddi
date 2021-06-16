@@ -1,0 +1,14 @@
+.deepsource.toml
+.dockerignore
+.editorconfig
+.eslintignore
+.eslintrc.json
+.github
+.gitignore
+.prettierrc.json
+.vscode
+*.log
+example
+node_modules
+renovate.json
+test
