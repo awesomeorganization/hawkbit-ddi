@@ -1,7 +1,7 @@
 {
   "name": "@awesomeorganization/hawkbit-ddi",
   "description": "[ESM] The hawkBit DDI API in Node.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "exports": "./main.js",
   "type": "module",
   "repository": "github:awesomeorganization/hawkbit-ddi",
@@ -17,14 +17,6 @@
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-github": "4.3.0",
     "eslint-plugin-node": "11.1.0"
-  },
-  "peerDependencies": {
-    "prettier": "2.4.1"
-  },
-  "peerDependenciesMeta": {
-    "prettier": {
-      "optional": true
-    }
   },
   "keywords": [
     "api",
