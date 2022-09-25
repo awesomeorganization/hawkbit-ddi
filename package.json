@@ -13,7 +13,7 @@
     "undici": "4.7.0"
   },
   "devDependencies": {
-    "eslint": "7.32.0",
+    "eslint": "8.24.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-github": "4.3.0",
     "eslint-plugin-node": "11.1.0"
