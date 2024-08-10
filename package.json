@@ -10,7 +10,7 @@
     "name": "sergeysedoy97"
   },
   "dependencies": {
-    "undici": "4.7.0"
+    "undici": "6.19.7"
   },
   "devDependencies": {
     "eslint": "7.32.0",
